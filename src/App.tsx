@@ -6,7 +6,7 @@ import './App.css'
 
 function App() {
   return (
-    <div className="page">
+    <main className="page">
       <h1>Espace client</h1>
       <p className="subtitle">Gère ton abonnement et tes préférences.</p>
 
@@ -23,7 +23,7 @@ function App() {
           renouvellement automatique.
         </p>
       </div>
-    </div>
+    </main>
   )
 }
 
